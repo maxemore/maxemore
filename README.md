@@ -1,8 +1,8 @@
-Contact:
+**/*---- Contact ----*/**
 <br>
-Email: reverse com dot outlook at maxemore
+**Email:** *reverse* com `dot` outlook `at` maxemore
 <br>
-Steam: id/maxemor
+**Steam:** id/maxemor
 <br>
-Discord: maxemore #9941
+**Discord:** maxemore #9941
 
